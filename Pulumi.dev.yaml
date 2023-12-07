@@ -1,0 +1,5 @@
+encryptionsalt: v1:qRnG5dKkqLo=:v1:6MoqkeWfXt2Xy2Ka:I/JOKdDfFOj2bn5FkWQ/eAiFY/11QA==
+config:
+  aws:region: us-east-1
+  domainName: demo-app.dev.example.com
+  rootDomainName: dev.example.com
